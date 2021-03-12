@@ -2,5 +2,6 @@
 
 this is a simple google home page project 
 
-[Demo] (https://lorthbroth.github.io/google-homepage/)
+[ Demo ](https://lorthbroth.github.io/google-homepage/)
+
 
